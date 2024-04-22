@@ -12,5 +12,6 @@ This project is a mobile application developed using the Flutter framework for m
 
 ## Screenshots
 
-![Home Screen](screenshots
+![screenshots](1.png)
+![screenshots](2.png)
 
